@@ -1,0 +1,46 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">#ff0199ff</item>
+        <item name="windowNoTitle">true</item>
+        <item name="colorControlActivated">#ff0199ff</item>
+        <item name="android:textViewStyle">@style/FontTextviewstyle</item>
+        <item name="android:buttonStyle">@style/FontButtonstyle</item>
+        <item name="editTextStyle">@style/FontEditTextstyle</item>
+        <item name="android:radioButtonStyle">@style/FontradioButtonstyle</item>
+    </style>
+
+    <style name="FontTextviewstyle" parent="android:style/Widget.TextView">
+        <item name="android:textAppearance">@style/FontTextAppearance</item>
+    </style>
+
+    <style name="FontButtonstyle" parent="android:style/Widget.Button">
+        <item name="android:textAppearance">@style/FontTextAppearance</item>
+    </style>
+
+    <style name="FontradioButtonstyle" parent="android:style/Widget.CompoundButton.RadioButton">
+        <item name="android:textAppearance">@style/FontTextAppearance</item>
+    </style>
+
+    <style name="FontEditTextstyle" parent="Widget.AppCompat.EditText">
+        <item name="android:textAppearance">@style/FontTextAppearance</item>
+    </style>
+
+    <style name="FontTextAppearance" parent="@android:style/TextAppearance">
+        <item name="android:typeface">monospace</item>
+    </style>
+
+    <style name="FullScreen" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">#ff0199ff</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+ 
+</resources>

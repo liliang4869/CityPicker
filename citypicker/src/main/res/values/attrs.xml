@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ExpandableView">
+    <attr name="title" format="string"/>
+    </declare-styleable>
+    <declare-styleable name="SpecialWorkItemView">
+        <attr name="pre_text" format="string"/>
+        <attr name="unit_text" format="string"/>
+    </declare-styleable>
+</resources>
