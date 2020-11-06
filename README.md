@@ -8,7 +8,7 @@ Android CityPicker.中国省市区街道四级选择器
 使用了GreenDao https://github.com/greenrobot/greenDAO
 
 ## Install
-待上传
+implementation 'com.liliang4869:CityPicker:1.0.1'
 
 ## Usage
 使用dialog
