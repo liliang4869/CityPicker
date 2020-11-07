@@ -1,5 +1,5 @@
 # CityPicker
-Android CityPicker.中国省市区街道四级选择器
+中国省市区街道四级选择器 Android CityPicker.
 
 ## 省市区街道数据来源
 来自 https://github.com/modood/Administrative-divisions-of-China
