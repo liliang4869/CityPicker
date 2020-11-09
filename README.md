@@ -7,8 +7,9 @@
 ## 数据库
 使用了GreenDao https://github.com/greenrobot/greenDAO
 
-## Install
-implementation 'com.liliang4869:CityPicker:1.0.1'
+## Setup
+Gradle<br>
+implementation 'com.liliang4869:CityPicker:1.0.1'</br>
 
 ## Usage
 使用dialog
