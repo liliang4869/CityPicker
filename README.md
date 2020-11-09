@@ -47,5 +47,5 @@ implementation 'com.liliang4869:CityPicker:1.0.1'
     android:layout_height="match_parent"/>
 ```
 
-## Preview
+## ScreenShot
 ![img](https://github.com/liliang4869/CityPicker/blob/main/img/device-2020-11-06-170428.png)
