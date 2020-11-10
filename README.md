@@ -12,6 +12,11 @@ Gradle<br>
 implementation 'com.liliang4869:CityPicker:1.0.1'</br>
 
 ## Usage
+```java
+//application中初始化
+CityPicker.getInstance().init(this);
+```
+
 使用dialog
 ```java
  CityPickerDialog cityPickerDialog = CityPicker.getInstance().buildCityPickerDialog(MainActivity.this);
